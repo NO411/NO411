@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm NO11
 
-![views](https://komarev.com/ghpvc/?username=NO411)
+![views](https://komarev.com/ghpvc/?username=NO411&color=blue&style=flat)
 
 - 🔭 I’m currently working on [my mods](https://content.minetest.net/users/NO11/)
 - 🌱 I’m currently learning how to create a profile README ...
