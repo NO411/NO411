@@ -6,7 +6,7 @@
 - 📫 How to reach me: mineclone2.NO11@gmail.com or NO11#8513 (Discord)
 - ⚡ Fun fact: ...
 
-![stats](https://github-readme-stats.vercel.app/api?username=NO411&show_icons=true&include_all_commits=true&cache_seconds=3200)
+![stats](https://github-readme-stats.vercel.app/api?username=NO411&show_icons=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NO411&layout=compact&hide_title=false)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NO411&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
